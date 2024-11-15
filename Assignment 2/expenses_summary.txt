@@ -1,0 +1,15 @@
+Total Expenses: $112672.28
+Expenses by Category:
+Food: $23396.76
+Other: $37868.00
+Transportation: $9203.80
+Social Life: $2513.72
+Household: $12188.00
+Apparel: $3388.00
+Education: $1400.00
+Salary: $8000.00
+Allowance: $14000.00
+Self-development: $400.00
+Beauty: $196.00
+Gift: $115.00
+Petty cash: $3.00
