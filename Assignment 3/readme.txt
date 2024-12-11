@@ -28,3 +28,4 @@ DESTINATION_TABLE = 'sandeep' 		  # big query table name
 - the code executes and the output data is stored in "BigQuery Table"
 
 - attached a sample dataset for running the code.
+- executed screenshots are also attached.
